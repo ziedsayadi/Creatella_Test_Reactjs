@@ -15,22 +15,22 @@ The above commands start the server and react app.
 
 # Features
 
-*products are displayed in a grid.
-*User have an option to sort the products in ascending order and also Can sort by "size", "price" or "id".
-*Products list is rerendred after every new sorting option.
-*Every product have an "id" feild, a "price" feild expressed with $ and a "size" feild expressed in pixels so to give the customers a realistic impression of what they're buying.
-*every Product have also a "date" field, which is the date the product was added to the catalog and its displayed in relative time (eg. "3 days ago").
-*Product Grid automatically load more items when scrolled.
-*Animation applied on the title and the select button.
-*Animated "circular spinner" when users scroll to load more.
-*~ end of catalogue ~" message displayed when user gets to end of the list and an Animation applied on the message.
-*Fetch a sponsored advertisement every 20 products without duplicates appearing in a row.
-*Every card have some features like animated buttons and faces.
-*Product list is respensive with simple UI.
+     -products are displayed in a grid.
+     -User have an option to sort the products in ascending order and also Can sort by "size", "price" or "id".
+     -Products list is rerendred after every new sorting option.
+     -Every product have an "id" feild, a "price" feild expressed with $ and a "size" feild expressed in pixels so to give the customers a realistic impression of what they're         buying.
+     -every Product have also a "date" field, which is the date the product was added to the catalog and its displayed in relative time (eg. "3 days ago").
+     -Product Grid automatically load more items when scrolled.
+     -Animation applied on the title and the select button.
+     -Animated "circular spinner" when users scroll to load more.
+     -~ end of catalogue ~" message displayed when user gets to end of the list and an Animation applied on the message.
+     -Fetch a sponsored advertisement every 20 products without duplicates appearing in a row.
+     -Every card have some features like animated buttons and faces.
+     -Product list is respensive with simple UI.
 
 # Technology used
 
-*ReactJs to manage all componenets 
-*Bootstrap for the easy design
-*Css5 for some costomized features
-*ContextApi for the easy and practical management of the state
+    -ReactJs to manage all componenets 
+    -Bootstrap for the easy design
+    -Css5 for some costomized features
+    -ContextApi for the easy and practical management of the state
