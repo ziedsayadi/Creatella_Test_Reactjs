@@ -18,7 +18,7 @@ The above commands start the server and react app.
      -products are displayed in a grid.
      -User have an option to sort the products in ascending order and also Can sort by "size", "price" or "id".
      -Products list is rerendred after every new sorting option.
-     -Every product have an "id" feild, a "price" feild expressed with $ and a "size" feild expressed in pixels so to give the customers a realistic impression of what they're         buying.
+     -Every product have an "id" feild, a "price" feild expressed with $ and a "size" feild expressed in pixels so to give the customers a realistic impression of what they're buying.
      -every Product have also a "date" field, which is the date the product was added to the catalog and its displayed in relative time (eg. "3 days ago").
      -Product Grid automatically load more items when scrolled.
      -Animation applied on the title and the select button.
