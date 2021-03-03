@@ -6,10 +6,10 @@ This is an ecommerce site, where you can buy all sorts of ascii faces like (ãƒŽã
 
 This application is prepackaged with the server and the client code residing in different folders. Follow the process below to run the application
 
-  *Get the clone from the repo https://github.com/ziedsayadi/Creatella_test_Reactjs
-  *Run: $ npm install
-  *Run: $ npm run start:server
-  *Run: $ npm run start:react-app
+    *Get the clone from the repo https://github.com/ziedsayadi/Creatella_Test_Reactjs.git
+    *Run: $ npm install
+    *Run: $ npm run start:server
+    *Run: $ npm run start:react-app
 The react app should open in port 3001 or any other port available since the server runs on 3000, but it would state this explicitly and whene it dose press the "y" .
 The above commands start the server and react app.
 
