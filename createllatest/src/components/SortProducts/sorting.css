@@ -1,0 +1,37 @@
+
+.select_container{
+    animation: appear 0.8s linear;
+}
+
+.select{
+    padding: 5px 12px;
+    color: #333333;
+    background: #eeeeeeee;
+    border: 1px solid #dddddd;
+    cursor: pointer;
+    border-radius: 8px;
+    
+}
+.select:focus,
+.select:hover{
+    outline: none;
+    border: 1px solid rgb(201, 193, 193);
+}
+
+.select option{
+    background: #ffffff;
+}
+@keyframes appear{
+    from{
+      transform: translateX(10%);
+      opacity: 0;
+    }
+    to{
+      transform: translateX(0);
+      opacity: 1;
+    }
+}
+
+
+
+
