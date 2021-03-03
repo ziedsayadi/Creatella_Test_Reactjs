@@ -4,7 +4,7 @@ This is an ecommerce site, where you can buy all sorts of ascii faces like (ãƒŽã
 
 # How to Run the application
 
-This application is prepackaged with the server and the client code residing in different folders. Follow the process below to run the application
+This application is prepackaged with the server and the client(createllatest) code residing in different folders. Follow the process below to run the application
 
     *Get the clone from the repo https://github.com/ziedsayadi/Creatella_Test_Reactjs.git
     *Run: $ npm install
