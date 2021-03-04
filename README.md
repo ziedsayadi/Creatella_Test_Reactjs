@@ -32,5 +32,5 @@ The above commands start the server and react app.
 
     -ReactJs to manage all componenets 
     -Bootstrap for the easy design
-    -Css5 for some costomized features
+    -Css3 for some costomized features
     -ContextApi for the easy and practical management of the state
